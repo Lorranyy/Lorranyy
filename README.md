@@ -1,4 +1,4 @@
-## ✨Olá! Meu nome é Lorrany, e sou estudante de informática✨
+## ✨Olá, Meu nome é Lorrany, e sou estudante de informática!✨
 
 <!--
 **Lorranyy/Lorranyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +31,6 @@ Here are some ideas to get you started:
   <a href = "mailto:santoslorrany@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
+<!--
 ![Snake animation](https://github.com/Lorranyy/Lorranyy/blob/output/github-contribution-grid-snake.svg)
+-->
